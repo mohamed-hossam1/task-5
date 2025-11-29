@@ -1,25 +1,13 @@
 # 📝 Todo List Application
 
-A simple and elegant **Todo List web app** built using **HTML**, **CSS**, and **JavaScript**.
+A simple and elegant **Contact Form using React** built using **React** and **useForm**.
 It allows users to:
 
-- Add new tasks
-- Edit existing tasks
-- Delete tasks
+- Send message
 
 ![App Demo](./demo.gif)
 
----
 
-## 💡 Features
-
-✅ Add new tasks easily
-✅ Edit tasks inline
-✅ Delete tasks instantly
-✅ Simple and responsive design
-✅ Works completely offline (no backend required)
-
----
 
 ## 🧬 How to Run the Project
 
@@ -39,7 +27,7 @@ It allows users to:
     ```
 
 
-3. Start adding your tasks 🌟
+3. Start adding your messages 🌟
 
 ---
 
@@ -49,16 +37,5 @@ It allows users to:
 * **CSS3** 
 * **React** 
 * **type script** 
-* **Font Awesome** 
+* **useForm** 
 
----
-
-## 🖼️ Preview
-
-When opened in the browser, the app displays:
-
-* A title: “Todo List Application”
-* A list of predefined tasks (like “Do some homeworks”)
-* An input box to add new tasks
-* Buttons for adding, updating, and deleting
-```
